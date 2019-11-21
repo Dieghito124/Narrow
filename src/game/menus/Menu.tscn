@@ -13,28 +13,28 @@ script = ExtResource( 1 )
 
 [node name="PlayBtn" parent="." instance=ExtResource( 2 )]
 margin_left = 0.0
-margin_top = 180.0
+margin_top = 210.0
 margin_right = 120.0
-margin_bottom = 225.0
+margin_bottom = 240.0
 text = "PLAY"
 
 [node name="WorldBtn" parent="." instance=ExtResource( 2 )]
 margin_left = 0.0
-margin_top = 245.0
-margin_right = 129.0
+margin_top = 260.0
+margin_right = 120.0
 margin_bottom = 290.0
 text = "WORLD"
 
 [node name="OptionsBtn" parent="." instance=ExtResource( 2 )]
 margin_left = 0.0
 margin_top = 310.0
-margin_right = 146.0
-margin_bottom = 355.0
+margin_right = 120.0
+margin_bottom = 340.0
 text = "OPTIONS"
 
 [node name="CreditsBtn" parent="." instance=ExtResource( 2 )]
 margin_left = 0.0
-margin_top = 375.0
-margin_right = 142.0
-margin_bottom = 420.0
+margin_top = 360.0
+margin_right = 120.0
+margin_bottom = 390.0
 text = "CREDITS"

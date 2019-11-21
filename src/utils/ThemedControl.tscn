@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://src/utils/themes/MainTheme.tres" type="Theme" id=1]
+[ext_resource path="res://src/utils/ThemedControl.gd" type="Script" id=2]
+
+[node name="ThemedControl" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+theme = ExtResource( 1 )
+script = ExtResource( 2 )
